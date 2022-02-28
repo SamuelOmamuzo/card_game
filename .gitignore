@@ -1,0 +1,4 @@
+# hiding my node modules
+
+node_modules
+.vercel
